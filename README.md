@@ -5,5 +5,3 @@ kevbacon
 zrauf
 calemars
 kuvasa
-kevbacon
-test
